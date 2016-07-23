@@ -1,0 +1,5 @@
+branch 
+-branches serve as the staging area for a project
+-we create branches to use as our own independant working area
+-so any changes we made in our own branch, it would not affect the codes in the master branch
+- we use this as a control method to prevent releasing an imperfect code into the main release
