@@ -1,1 +1,12 @@
+"mv" has 2 functions:
+1. To change the directory of a file or files
+2. To rename a file
+
+Example:
+
+To rename a file:
+mv filename1 filename2
+
+To change directory:
+mv file1 file2 directory
 
