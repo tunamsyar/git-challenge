@@ -1,0 +1,2 @@
+upstream remote
+-is the repository that we use to automatically would git push or git pull any changes made
