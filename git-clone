@@ -1,0 +1,3 @@
+git-clone
+-clones a repostitory to a directory
+-once cloned, it will create remote tracking branches for each branch in the cloned repository and creates and checks out an initial branch that is forked from the cloned repository's currently active branch.
